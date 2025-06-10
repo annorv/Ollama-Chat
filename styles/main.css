@@ -1,0 +1,32 @@
+/* Main layout tweaks */
+.block-container {
+    padding-top: 2.5rem;
+}
+
+/* Chat bubbles */
+.stChatMessage {
+    background-color: #75577f;
+    padding: 12px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+/* Code styling */
+code, pre {
+    background-color: #e5e7eb;
+    padding: 4px 6px;
+    border-radius: 6px;
+    font-family: 'Courier New', monospace;
+    font-size: 14px;
+}
+
+/* Markdown tables */
+table {
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+td, th {
+    border: 1px solid #ccc;
+    padding: 8px;
+}
